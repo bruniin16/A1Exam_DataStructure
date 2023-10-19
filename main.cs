@@ -10,7 +10,7 @@ class game
 
         int fasesDificeis = 96 - fasesFaceis;
 
-        int horasFaseFacil = fasesFaceis * 1;
+        int horasFaseFacil = fasesFaceis;
         int horasFaseDificil = fasesDificeis * 2;
         int totalHoras = horasFaseFacil + horasFaseDificil;
 
